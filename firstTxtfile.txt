@@ -2,3 +2,4 @@ this message is from master branch
 this is message is from second file
 this message is from first branch
 This is directly written in online repository
+for merge conflict
